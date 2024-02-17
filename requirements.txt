@@ -1,1 +1,3 @@
 chromadb
+arxiv-base
+git+https://github.com/dsdanielpark/arxiv2text.git
