@@ -11,7 +11,7 @@ path_dataset = path_root / "dataset"
 path_dataset.mkdir(exist_ok=True)
 
 
-def random_sample(num: int, tot: int = 92619) -> set[int]:
+def random_sample(num: int, tot: int = 926193) -> set[int]:
     """
     Randomly samples a specified number of paper indices from a larger pool.
 

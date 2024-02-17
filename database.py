@@ -52,7 +52,7 @@ with open(path_dataset / "arxiv.json") as file:
         i += 1
 
         # total num of line in arxiv.json: `wc -l arxiv.json`
-        print(f"\r[{i:>5}/92619]", end="")
+        print(f"\r[{i:>5}/926193]", end="")
 
         if i % 1000 == 0:
             for id_ in collection.get(ids)["ids"]:
