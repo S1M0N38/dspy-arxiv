@@ -192,6 +192,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-dspy
+dspy-src
+local_cache
 database
 dataset
