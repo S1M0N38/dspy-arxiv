@@ -1,5 +1,6 @@
+dspy-ai
+matplotlib
 arxiv-base
 git+https://github.com/dsdanielpark/arxiv2text.git
-pandas==2.1.4
-ipykernel==6.29.0
-ipywidgets==8.1.2
+ipykernel
+ipywidgets
